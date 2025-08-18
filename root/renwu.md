@@ -87,8 +87,10 @@
 
 《飞针宝典》的主要招式： <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;飞针清明：随便打出两针、探探路数... <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;飞针惊艳：蓄意打出飞针、一般攻击... <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;飞针入魂：阴毒打出飞针、要人性命...
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;飞针惊艳：蓄力打出飞针、普通攻击... <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;银针黯然：打出带毒银针、要人性命... <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;望穿秋水：通过飞针打开东西、想要看清前方事物... <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弹指神通：通过弹指射出飞针、弹指之间即得神通...
 
 ### 南扶
 
